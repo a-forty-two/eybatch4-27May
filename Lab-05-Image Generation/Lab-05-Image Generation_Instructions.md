@@ -43,7 +43,7 @@ You can use the DALL-E playground in **Azure OpenAI Studio** to experiment with 
 
 ### Execute the notebook "Image Generation.ipynb".
 
-1. Open the notebook chatcompletions.ipynb and replace the following values with your OpenAI model values in the application.
+1. Open the notebook Image_generation.ipynb and replace the following values with your OpenAI model values in the application.
         (your_azure_oai_endpoint)
         (your_azure_oai_key)
         (your_azure_oai_deployment)
